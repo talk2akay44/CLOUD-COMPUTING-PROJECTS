@@ -11,7 +11,8 @@
 #### Prerequite:
 
 - Basic Understanding of Python
-- 
+
+
 We will build a command-line based bookstore management system using python. 
 
 Steps to implement the project:

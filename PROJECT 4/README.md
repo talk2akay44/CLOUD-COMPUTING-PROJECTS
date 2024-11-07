@@ -10,7 +10,7 @@
 - Display the results of the ping test, including response times and packet loss.
 
 
-
+---------------------------------------------------------------------------------------------------------------
 
 Open linux ubuntu and run the following command:
 
